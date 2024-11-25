@@ -1,0 +1,14 @@
+D:\Usuario\Desktop\Fixação\bin\Debug\net8.0\Fixação.exe
+D:\Usuario\Desktop\Fixação\bin\Debug\net8.0\Fixação.deps.json
+D:\Usuario\Desktop\Fixação\bin\Debug\net8.0\Fixação.runtimeconfig.json
+D:\Usuario\Desktop\Fixação\bin\Debug\net8.0\Fixação.dll
+D:\Usuario\Desktop\Fixação\bin\Debug\net8.0\Fixação.pdb
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.AssemblyInfo.cs
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.dll
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\refint\Fixação.dll
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.pdb
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\Fixação.genruntimeconfig.cache
+D:\Usuario\Desktop\Fixação\obj\Debug\net8.0\ref\Fixação.dll
